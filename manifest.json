@@ -1,0 +1,15 @@
+{
+  "name": "NeuroSync_FPS_Calibrator",
+  "runtime": "python3.11",
+  "input": {
+    "real_angles": "number[12]"
+  },
+  "output": [
+    "K_sys",
+    "K_accel",
+    "R_squared",
+    "deg_per_cm"
+  ],
+  "price": "0.01 USDC",
+  "status_note": "Manifest/escrow layer was presented as a design; on-chain deployment remained future work."
+}
