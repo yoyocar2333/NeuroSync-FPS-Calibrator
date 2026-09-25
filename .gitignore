@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+.DS_Store
+# raw experiment media can be large; store only consented/redacted samples
+*.mp4
+*.mov
+*.avi
